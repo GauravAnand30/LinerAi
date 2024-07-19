@@ -3,8 +3,8 @@
 LinerAi is an advanced AI application designed to provide intelligent responses and insights, similar to Gemini. This project leverages React and integrates with the Gemini API to deliver a seamless and powerful user experience.
 
 ## Live Demo
-
-Check out the live demo of LinerAi [here](https://your-live-demo-link.com).
+[Live](https://linerai.netlify.app/)
+Check out the live demo of LinerAi [here](https://linerai.netlify.app/).
 
 ## Features
 
