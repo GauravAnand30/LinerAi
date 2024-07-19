@@ -18,7 +18,7 @@ Check out the live demo of LinerAi [here](https://your-live-demo-link.com).
 
 - **React**: A JavaScript library for building user interfaces.
 - **Gemini API**: For AI-powered responses and interactions.
-- **[List any other dependencies or libraries your project uses]**
+
 
 ## Installation
 
@@ -26,5 +26,9 @@ To run LinerAi locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <LinerAi>
+2. ```
+   npm install
+3. ```
+   npm run dev
 
