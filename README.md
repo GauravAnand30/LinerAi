@@ -19,6 +19,14 @@ Check out the live demo of LinerAi [here](https://your-live-demo-link.com).
 - **React**: A JavaScript library for building user interfaces.
 - **Gemini API**: For AI-powered responses and interactions.
 
+## SreenShots
+**Main Homepage
+
+**New Chat
+
+**Who I'm I
+
+** New Responses
 
 ## Installation
 
