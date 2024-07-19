@@ -21,12 +21,20 @@ Check out the live demo of LinerAi [here](https://your-live-demo-link.com).
 
 ## SreenShots
 **Main Homepage
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/Screenshot%202024-07-19%20050844.png)
 
 **New Chat
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/Screenshot%202024-07-19%20050933.png)
+
+** Loader
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/loader.png)
 
 **Who I'm I
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/R0.png)
 
 ** New Responses
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/R1.png)
+![](https://github.com/GauravAnand30/LinerAi/blob/master/Screenshots/R2.png)
 
 ## Installation
 
